@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <h1>Formulário de Avaliação de Curso</h1> 
+        <style>
+            h1{background-color: cadetblue;
+            text-align: center;
+        box-sizing: border-box;
+    margin: 0%;
+padding: 50px;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+           *{box-sizing: border-box;}
+   form {
+  width: 300px;
+  margin: 100px auto;
+  padding: 30px;
+  border: 3px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+
+        
+        
+        </style>
+</head>
+<body>
+    <form action="http://127.0.0.1:3000/e:/USUARIO/Downloads/formulario/fimform.html"method="post">
+       <h2>Sobre o conteúdo: </h2>
+<h3>1-Apresenta clareza e é objetiva?</h3>
+<input type="radio" name="pergunta" value="1" >Concordo Totalmente<br>
+<input type="radio" name="pergunta" value="2" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta" value="3">Discordo Parcialmente<br>
+<input type="radio" name="pergunta" value="4">Discordo Totalmente
+<h3>2-Aplicável no cotidiano?</h3>
+<input type="radio" name="pergunta1" value="5" id="s">Concordo Totalmente<br>
+<input type="radio" name="pergunta1" value="6" id="t">Concordo Parcialmente<br>
+<input type="radio" name="pergunta1" value="7"id="u">Discordo Parcialmente<br>
+<input type="radio" name="pergunta1" value="8" id="i">Discordo Totalmente
+<h2>Sobre Metodologia aplicada, avalie: *</h2>
+<h3>3-Clareza na exposição? </h3>
+<input type="radio" name="pergunta2" value="9" >Concordo Totalmente<br>
+<input type="radio" name="pergunta2" value="10" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta2" value="11">Discordo Parcialmente<br>
+<input type="radio" name="pergunta2" value="12" >Discordo Totalmente
+<h3>4-Estimulou partipação?</h3>
+<input type="radio" name="pergunta3" value="13" >Concordo Totalmente<br>
+<input type="radio" name="pergunta3" value="14" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta3" value="15">Discordo Parcialmente<br>
+<input type="radio" name="pergunta3" value="16" >Discordo Totalmente
+<h3>5-Qualidade do material?</h3>
+<input type="radio" name="pergunta4" value="17" >Concordo Totalmente<br>
+<input type="radio" name="pergunta4" value="18" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta4" value="19">Discordo Parcialmente<br>
+<input type="radio" name="pergunta4" value="20">Discordo Totalmente
+<h3>6-Inovadora?</h3>
+<input type="radio" name="pergunta5" value="21" >Concordo Totalmente<br>
+<input type="radio" name="pergunta5" value="22" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta5" value="23">Discordo Parcialmente<br>
+<input type="radio" name="pergunta5" value="24" >Discordo Totalmente
+<h2>Avaliação Geral: *</h2>
+<h3>7-A apresentação atendeu minhas expectativas? </h3>
+<input type="radio" name="pergunta6" value="25" >Concordo Totalmente<br>
+<input type="radio" name="pergunta6" value="26" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta6" value="27">Discordo Parcialmente<br>
+<input type="radio" name="pergunta6" value="28" >Discordo Totalmente
+<h3>8-O treinamento cumpriu os objetivos propostos?</h3>
+<input type="radio" name="pergunta7" value="29" >Concordo Totalmente<br>
+<input type="radio" name="pergunta7" value="30" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta7" value="31">Discordo Parcialmente<br>
+<input type="radio" name="pergunta7" value="32" >Discordo Totalmente
+<h3>9-Tive bom nível de aproveitamento?</h3>
+<input type="radio" name="pergunta8" value="33" >Concordo Totalmente<br>
+<input type="radio" name="pergunta8" value="34" >Concordo Parcialmente<br>
+<input type="radio" name="pergunta8" value="35">Discordo Parcialmente<br>
+<input type="radio" name="pergunta8" value="36" >Discordo Totalmente
+<h3>10-O que mais gostou?</h3>
+<input type="text" name="gostou" id="gostou" value="Digite aqui...">
+<h3>11-O que pode ser melhorado?</h3>
+<input type="text" name="gostou" id="gostou" value="Digite aqui...">
+<p></p><a href="http://127.0.0.1:3000/e:/USUARIO/Downloads/formulario/fimform.html" target="_blank"><input type="submit" value="Enviar"</a>
+</form> 
+</body>
+</html>
