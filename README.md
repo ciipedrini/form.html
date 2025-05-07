@@ -1,1 +1,1 @@
-É um projeto de formulário, meu primeiro projeto para a faculdade. É um formulário simples sobre avaliação/feedback, usei o Formspree como domínio para receber as respostas do formulário e é limitado, daqui a uma semana o formulário não estará aceitando respostas.
+
