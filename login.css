@@ -1,0 +1,57 @@
+
+.quadradonomeio{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  height:400px ;
+   width: 300px;
+  margin: 200px;
+  padding: 40px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+ background-image: url('backgroundmadeby@ciipedrini.jpg');
+  background-position:unset;
+  background-size:cover;
+}
+
+.saudacao{
+  font-size: larger;
+    font-family:monospace;
+    font-size: 20px;
+    color: rgb(187, 124, 206);
+    text-shadow: #fcfbfc 1px 1px 1px;
+}
+h4 {
+font-size: larger;
+  font-family:monospace;
+  color: rgb(187, 124, 206);
+  text-shadow: #fcfbfc 1px 1px 1px;
+  
+}
+#form{
+ 
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}
+#email{
+border: rgb(148, 97, 163);
+border-radius: 10px;
+background-color: rgb(227, 220, 230);
+}
+#senha{
+  background-color: rgb(227, 220, 230);
+  border: rgb(148, 97, 163);
+border-radius: 10px;
+}
+.entrar{
+  color: rgb(107, 19, 134);;
+border: 5px solid rgb(187, 124, 206);
+border-radius: 10px;
+background-color: rgb(187, 124, 206);
+}
+#cad{
+  font-family: monospace;
+  color: rgb(187, 124, 206);
+   text-shadow: #fcfbfc 1px 1px 1px;
+}
