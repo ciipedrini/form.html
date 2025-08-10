@@ -1,3 +1,11 @@
-Este é o meu primeiro projeto fora da faculdade, com foco na criação de um formulário simples e funcional para coleta de feedback de usuários.
-Atualmente, as respostas do formulário são enviadas e armazenadas por meio do serviço Formspree, facilitando a integração sem a necessidade de um back-end próprio.
-Este projeto marca o início da minha jornada prática fora do ambiente acadêmico, buscando aplicar e expandir meus conhecimentos em desenvolvimento web.
+# 🎓 Projetos da Faculdade
+
+Bem-vindo(a) ao meu repositório de **projetos acadêmicos**!  
+Aqui estarão reunidos os projetos desenvolvidos durante minha jornada no curso de **Ciência da Computação**.
+
+---
+
+## 📚 Objetivo
+Este repositório tem como propósito:
+- Organizar e versionar os códigos produzidos ao longo da graduação.
+- Servir como portfólio de aprendizado e evolução.
