@@ -1,17 +1,17 @@
 .quadradonomeio{
- 
   display: flex;
   flex-direction: column;
-  align-content: center;
-  height:250px ;
-   width: 300px;
-  margin: 200px;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  width: 300px;
+  margin: 200px auto;
   padding: 40px;
   border: 2px solid #ccc;
   border-radius: 10px;
- background-image: url('backgroundmadeby@ciipedrini.jpg');
-  background-position:unset;
-  background-size:cover;
+  background-image: url('backgroundmadeby@ciipedrini.jpg');
+  background-position: unset;
+  background-size: cover;
 }
 
 .saudacao{
@@ -54,3 +54,4 @@ background-color: rgb(187, 124, 206);
   font-family: monospace;
   color: rgb(187, 124, 206);
    text-shadow: #fcfbfc 1px 1px 1px;
+
