@@ -8,13 +8,13 @@ aqui estarão reunidos os projetos desenvolvidos  como um portifólio e evoluç�
 ## 💻 Tecnologias a serem usadas
 
 ->Pro Back-end:
-.Python
-.C++
-.Java Script
+,Python
+,C++
+,Java Script
 
 ->Pro Front-end:
-.HTML
-.CSS
+,HTML5
+,CSS
 
 OBS: conforme aprendo a utilizar outras tecnologias, irei adicionar na listagem.
 
