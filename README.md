@@ -1,11 +1,21 @@
-# 🎓 Projetos da Faculdade
+## 👩🏻‍💻 Projetos Front/Back-end
 
-Bem-vindo(a) ao meu repositório de **projetos acadêmicos**!  
-Aqui estarão reunidos os projetos desenvolvidos durante minha jornada no curso de **Ciência da Computação**.
+Bem-vindo(a) ao meu repositório,
+aqui estarão reunidos os projetos desenvolvidos  como um portifólio e evolução pessoal.
 
 ---
 
-## 📚 Objetivo
-Este repositório tem como propósito:
-- Organizar e versionar os códigos produzidos ao longo da graduação.
-- Servir como portfólio de aprendizado e evolução.
+## 💻 Tecnologias a serem usadas
+
+->Pro Back-end:
+.Python
+.C++
+.Java Script
+
+->Pro Front-end:
+.HTML
+.CSS
+
+OBS: conforme aprendo a utilizar outras tecnologias, irei adicionar na listagem.
+
+
