@@ -1,4 +1,9 @@
-.quadradonomeio{
+#fundo{
+  background-image: url('backgroundmadeby@ciipedrini5x4.webp');
+  background-position: center;
+  background-size: cover;}
+
+ #quadradonomeio{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -7,11 +12,22 @@
   width: 300px;
   margin: 200px auto;
   padding: 40px;
-  border: 2px solid #ccc;
+  border: 1px solid #ffffff;
   border-radius: 10px;
-  background-image: url('backgroundmadeby@ciipedrini.jpg');
-  background-position: unset;
+  background: linear-gradient(to bottom, rgba(109, 22, 160, 0.8),rgba(104, 13, 156, 0.8));
+  background-position: center;
   background-size: cover;
+}
+
+@media (max-width: 600px) {
+  #quadradodomeio{
+    width: 90vw;
+    height: 180px;
+    padding: 20px;
+    margin: 40px auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
 }
 
 .saudacao{
@@ -45,7 +61,7 @@ background-color: rgb(227, 220, 230);
 border-radius: 10px;
 }
 #entrar{
-  color: rgb(107, 19, 134);
+  color: rgb(107, 19, 134);;
 border: 5px solid rgb(187, 124, 206);
 border-radius: 10px;
 background-color: rgb(187, 124, 206);
@@ -54,4 +70,5 @@ background-color: rgb(187, 124, 206);
   font-family: monospace;
   color: rgb(187, 124, 206);
    text-shadow: #fcfbfc 1px 1px 1px;
+}
 
