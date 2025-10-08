@@ -1,21 +1,6 @@
-## 👩🏻‍💻 Projetos Front/Back-end
+# 📝 Página de Cadastro (HTML, CSS e JavaScript)
 
-Bem-vindo(a) ao meu repositório,
-aqui estarão reunidos os projetos desenvolvidos  como um portifólio e evolução pessoal.
+Este projeto é uma **página de cadastro de usuários** desenvolvida com **HTML, CSS e JavaScript puro**, com foco em **design limpo** e **interações simples e funcionais** no navegador.
+A aplicação simula o processo de cadastro de um usuário, validando os campos do formulário e exibindo mensagens de sucesso ou erro de forma interativa.
 
 ---
-
-## 💻 Tecnologias a serem usadas
-
-->Pro Back-end:
-Python
-,C++
-,Java Script
-
-->Pro Front-end:
-HTML5
-,CSS
-
-OBS: conforme aprendo a utilizar outras tecnologias, irei adicionar na listagem.
-
-
